@@ -24,3 +24,27 @@ genres = ["rwby", "fighter", "anime", "2d"]
 thumbnail_path = "images\\bbtag.jpg"
 exe_path = "D:\\Steam\\steamapps\\common\\BBTAG\\BBTAG.exe"
 exe_args = ["arg1", "arg2"]
+
+[games.guiltygear]
+name = "Guilty Gear "
+description = "ultra style fighter"
+genres = ["style", "fighter", "anime", "2d"]
+thumbnail_path = "images\\gg.png"
+exe_path = "D:\\Steam\\steamapps\\common\\GUILTY GEAR Xrd -REVELATOR-\\Binaries\\Win32\\GuiltyGearXrd.exe"
+exe_args = ["arg1", "arg2"]
+
+[games.meltyblood]
+name = "Melty Blood"
+description = "schoolgirl waifu fighter"
+genres = ["vampire", "fighter", "anime", "2d"]
+thumbnail_path = "images\\meltyblood.jpg"
+exe_path = "D:\\Steam\\steamapps\\common\\MELTY BLOOD Actress Again Current Code\\MBAA.exe"
+exe_args = ["arg1", "arg2"]
+
+[games.touhou]
+name = "Touhou 14"
+description = "Touhouuuuuuuu"
+genres = ["bullet hell", "anime", "2d"]
+thumbnail_path = "images\\touhou.png"
+exe_path = "C:\\Users\\Sam\\Downloads\\Touhou 14 - Double-Dealing Character\\th14e.exe"
+exe_args = ["arg1", "arg2"]
